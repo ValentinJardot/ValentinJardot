@@ -1,13 +1,26 @@
-### Hi there 👋
+<h1 style="text-align:center;">Hello world 👋</h1>
 
-- 🔭 I’m currently working on ...
+<div style="text-align:center;">
+I'm <strong>Valentin</strong> !
+
+<h2>This profile is in construction !</h2>
+</div>
+
+<!-- <div style="text-align:center;">I'm a <strong>Back-end developer</strong>  and you can see all my projects here !</div>
+
+[Image 1](/favicon.png "mon image est un favicon")
+
+## My skills and tools  -->
+
+
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 <!--
 **ValentinJardot/ValentinJardot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
