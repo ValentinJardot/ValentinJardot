@@ -91,7 +91,7 @@
 
 <div align="center">
         <a href="https://beacons.ai/lagenceduska" target="_blank" rel="noreferrer"> 
-          <img src="#" alt="logo-agence-du-ska" 
+          <img src="img/logo-ads-fond-noir.png" alt="logo-agence-du-ska" 
             width="60" height="60"/> 
         </a> 
           &nbsp  
