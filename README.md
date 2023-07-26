@@ -6,11 +6,8 @@
 
 <div align="center">
     <h1>I'm Valentin 👋</h1>
-
     <p>I'm a <strong>Back-end developer</strong>  and here, you can see all my projects !</p>
 </div>
-
-<!-- <div style="text-align:center;">I'm a <strong>Back-end developer</strong>  and you can see all my projects here !</div> -->
 
 
 <!-- Skills pill -->
