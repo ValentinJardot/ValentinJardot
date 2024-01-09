@@ -92,12 +92,12 @@
   <div>
     <h3>I'm a trumpeter</h3>
     <a href="https://beacons.ai/lagenceduska" target="_blank" rel="noreferrer"> 
-      <img src="img/logo-ads-fond-noir.png" alt="logo-agence-du-ska" 
+      <img src="img/Plan de travail 7.png" alt="logo-agence-du-ska" 
         width="60" height="60"/> 
     </a> 
       &nbsp
     <a href="https://www.facebook.com/profile.php?id=100063605679374" target="_blank" rel="noreferrer"> 
-      <img src="#" alt="logo-umd" 
+      <img src="img/Logo - couleurs@4x.png" alt="logo-umd" 
         width="60" height="60"/> 
     </a> 
       &nbsp 
@@ -106,7 +106,7 @@
   <div>
     <h3>I'm a streamer on Twitch</h3>
     <a href="https://twitch.tv/valtair711" target="_blank" rel="noreferrer"> 
-      <img src="#" alt="logo-valtair711" 
+      <img src="img/logo V7.png" alt="logo-valtair711" 
         width="60" height="60"/> 
     </a> 
       &nbsp  
