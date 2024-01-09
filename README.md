@@ -92,7 +92,7 @@
   <div>
     <h3>I'm a trumpeter</h3>
     <a href="https://beacons.ai/lagenceduska" target="_blank" rel="noreferrer"> 
-      <img src="img/Plan de travail 7.png" alt="logo-agence-du-ska" 
+      <img src="img/Plan de travail 8.png" alt="logo-agence-du-ska" 
         width="60" height="60"/> 
     </a> 
       &nbsp
